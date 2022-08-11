@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2022-07-29T19:24:44.505Z"
+    },
+    {
+      "description": "Teste",
+      "category": "Contas",
+      "price": 20,
+      "type": "outcome",
+      "createdAt": "2022-08-11T22:07:16.673Z",
+      "id": 4
+    },
+    {
+      "description": "List of categories",
+      "category": "C",
+      "price": 2,
+      "type": "income",
+      "createdAt": "2022-08-11T22:08:47.660Z",
+      "id": 5
     }
   ]
 }
